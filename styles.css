@@ -1,0 +1,10 @@
+/* Center canvas and remove default margins */
+body {
+    margin: 0;
+    overflow: hidden; /* Prevent scrollbars */
+  }
+  
+  canvas {
+    display: block; /* Ensure canvas takes full width and height */
+  }
+  
